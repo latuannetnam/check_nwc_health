@@ -1,4 +1,5 @@
 [submodule "GLPlugin"]
 	path = GLPlugin
 	#url = git://github.com/lausser/GLPlugin.git
-	url = https://github.com/lausser/GLPlugin.git
+	#url = https://github.com/lausser/GLPlugin.git
+         url = https://github.com/latuannetnam/GLPlugin.git
